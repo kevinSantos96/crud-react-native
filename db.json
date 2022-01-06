@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "nombre": "Kevin Santos",
+      "telefono": "95060180",
+      "correo": "javier.ss896@gmail.com",
+      "empresa": "Appland",
+      "id": 1
+    },
+    {
+      "nombre": "Javier García",
+      "telefono": "31189525",
+      "correo": "djrapernet@hotmail.com",
+      "empresa": "Confisa",
+      "id": 2
+    },
+    {
+      "nombre": "Alan Castro",
+      "telefono": "31189525",
+      "correo": "Gurút@hotmail.com",
+      "empresa": "Confisa",
+      "id": 3
+    },
+    {
+      "nombre": "Karlen Melissa Martínez 😍❤️",
+      "telefono": "31189525",
+      "correo": "kamelli@hotmail.com",
+      "empresa": "Happy PET",
+      "id": 4
+    },
+    {
+      "nombre": "Waldirt Reyes",
+      "telefono": "9881521",
+      "correo": "WaldirtReyes@gmail.com",
+      "empresa": "GAC",
+      "id": 5
+    }
+  ]
+}
